@@ -1,0 +1,5 @@
+1,"Pinehurst Country Club","Pinehurst","NC",72,7200,142,74.50
+2,"Augusta National Golf Club","Augusta","GA",72,7475,137,76.20
+3,"Pebble Beach Golf Links","Pebble Beach","CA",72,7040,145,75.30
+4,"Oakmont Country Club","Oakmont","PA",71,7255,148,77.10
+5,"St. Andrews Links","St Andrews","SC",72,7305,139,76.80

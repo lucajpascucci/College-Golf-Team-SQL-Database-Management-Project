@@ -1,0 +1,5 @@
+1,"Spring Invitational 2024",1,3/15/2024 0:00:00,3/17/2024 0:00:00,3,"Invitational"
+2,"Conference Championship",2,4/20/2024 0:00:00,4/22/2024 0:00:00,3,"Conference"
+3,"Regional Qualifier",3,5/10/2024 0:00:00,5/12/2024 0:00:00,3,"Regional"
+4,"Fall Classic",4,9/15/2024 0:00:00,9/16/2024 0:00:00,2,"Invitational"
+5,"National Championship",5,10/25/2024 0:00:00,10/28/2024 0:00:00,4,"National"

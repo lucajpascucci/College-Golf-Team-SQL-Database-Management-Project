@@ -1,0 +1,8 @@
+1,"Michael","Johnson","mjohnson@college.edu","555-0101","Senior","Business",2.50,1/15/2021 0:00:00,1
+2,"Sarah","Williams","swilliams@college.edu","555-0102","Junior","Engineering",3.20,8/20/2022 0:00:00,1
+4,"David","Brown","dbrown@college.edu","555-0103","Sophomore","Biology",4.10,8/22/2023 0:00:00,1
+5,"Emily","Davis","edavis@college.edu","555-0104","Freshman","Psychology",5.50,8/25/2024 0:00:00,1
+6,"James","Miller","jmiller@college.edu","555-0105","Senior","Economics",1.80,1/15/2021 0:00:00,1
+7,"Jessica","Wilson","jwilson@college.edu","555-0106","Junior","Communications",3.80,8/20/2022 0:00:00,1
+8,"Robert","Taylor","rtaylor@college.edu","555-0107","Sophomore","Finance",4.50,8/22/2023 0:00:00,1
+9,"Amanda","Martinez","amartinez@college.edu","555-0108","Junior","Marketing",3.50,8/20/2022 0:00:00,1
