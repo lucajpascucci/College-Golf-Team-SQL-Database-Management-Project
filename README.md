@@ -9,7 +9,7 @@ Built a relational SQL database in Microsoft Access to manage college golf team 
 ## Tools
 - Microsoft Access
 - SQL (basic)
-- CSV exports for portability
+- Txt. exports for portability
 
 ## Features
 - Normalized tables with primary and foreign keys
